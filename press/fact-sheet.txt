@@ -1,0 +1,35 @@
+NOCK — FACT SHEET
+
+Title          Nock: Archery  (home screen: Nock)
+Platform       Apple Vision Pro (visionOS 26)
+Developer      HANA JUNG, independent developer, Republic of Korea
+Release        October 2026 (date to be announced)
+Price          Free to start. One In-App Purchase, "Nock Full Game", unlocks everything else. No subscription, no ads.
+Languages      English, Korean
+Age rating     13+
+Website        https://angnimatiz.github.io/nock/
+Contact        angnimatiz@gmail.com
+
+ONE LINE
+Target archery for Apple Vision Pro, played with nothing but your hands.
+
+SHORT DESCRIPTION
+Raise your bow hand, put the gold inside the sight ring, pinch the other hand to let go. Nock aims the way
+real archers do — through a sight ring drawn for your dominant eye — and the arrow flies a true ballistic
+path through wind you can see in the flags and hear from the side it blows from.
+
+FEATURES
+- Hand tracking is the whole controller: the bow hand aims, a pinch looses the arrow, a restless arm shows at the target.
+- Weekly Challenge: everyone in the world shoots the same twelve arrows in the same venue and wind; the week's
+  best archer stands in the next lane, arrow for arrow. (Free.)
+- A stadium at golden hour, a crowd that rises for the X, and tour venues in Kyoto, Oaxaca and Bergen.
+- Set-system matches with a real end clock, an eight-archer knockout tournament, a four-day World Championship
+  and a season with a national selection.
+- Left-handed archers and either dominant eye are supported. No ads, no tracking, no sign-up.
+
+FREE                 Tutorial, Practice, Record Rounds, one Friendly match, Weekly Challenge
+FULL GAME (one IAP)  Friendly, Tournament, World Championship, Season, and the bows, arrows and light trail medals unlock
+
+IN THIS KIT
+screenshots/  ten 3840 x 2160 captures from the app
+nock-icon-1024.png
